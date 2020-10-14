@@ -1,0 +1,11 @@
+
+
+1602644673.296742161  Node Startup
+1602644723.007327978 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] wrestling
+1602644723.507232202 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] navigation
+1602644724.010444658 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] soccer
+1602644724.511117350 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] racecar
+1602644725.021870825 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] computer
+1602644725.522402936 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] bee
+1602644726.023211832 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] 
+1602644726.524443955 INFO /your_node [/home/vagrant/training_ws/src/week_4_exercises/exercise_4_1/your_node.cpp:9(String))] [topics: /rosout] testing testing 123
